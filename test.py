@@ -2,7 +2,6 @@
 
 from lib import switch
 import sys
-import re
 
 sw = switch.Switch(sys.argv[1])
 port = sys.argv[2]
